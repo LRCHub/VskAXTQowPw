@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ダウン",
+  "base_artist": "blink-182",
+  "createdAt": "2026-02-15T16:42:09.584480Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイム・ゴナ・ティア・ユア・プレイハウス・ダウン",
+      "artist": "アン・ピーブルズ",
+      "has_synced": false,
+      "path": "select/01_アイム・ゴナ・ティア・ユア・プレイハウス・ダウン_アン・ピーブルズ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ダウン・トゥ・アース",
+      "artist": "ピーター・ガブリエル",
+      "has_synced": true,
+      "path": "select/02_ダウン・トゥ・アース_ピーター・ガブリエル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ウィ・ウォント・バック・ダウン",
+      "artist": "Hammerfall",
+      "has_synced": false,
+      "path": "select/03_ウィ・ウォント・バック・ダウン_Hammerfall.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "オフィサー・ダウン",
+      "artist": "Bad Wolves",
+      "has_synced": true,
+      "path": "select/04_オフィサー・ダウン_Bad_Wolves.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ゴーン・ゴードン・ダウン",
+      "artist": "煮ル果実",
+      "has_synced": true,
+      "path": "select/05_ゴーン・ゴードン・ダウン_煮ル果実.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "フェイス・ダウン",
+      "artist": "Killer Be Killed",
+      "has_synced": false,
+      "path": "select/06_フェイス・ダウン_Killer_Be_Killed.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "フェル・ダウン・ア・ホール",
+      "artist": "Wolfmother",
+      "has_synced": true,
+      "path": "select/07_フェル・ダウン・ア・ホール_Wolfmother.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "フォロー・ミー・ダウン",
+      "artist": "3OH!3",
+      "has_synced": false,
+      "path": "select/08_フォロー・ミー・ダウン_3OH!3.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "キャント・ホールド・アス・ダウン [Can't Hold Us Down]",
+      "artist": "Axwell Λ Ingrosso",
+      "has_synced": false,
+      "path": "select/09_キャント・ホールド・アス・ダウン_[Can't_Hold_Us_Down]_Axwell_Λ_Ingrosso.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sit Down. Stand Up. (Snakes & Ladders.) = スィット・ダウン。スタンド・アップ （スネイクス＆ラダーズ）",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/10_Sit_Down._Stand_Up._(Snakes_&_Ladders.)_=_スィット・ダウン。スタンド・アップ_(スネイクス&ラダーズ)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ブライアン・ダウン",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": false,
+      "path": "select/11_ブライアン・ダウン_Thee_Michelle_Gun_Elephant.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アップサイド・ダウン",
+      "artist": "ダイアナ・ロス",
+      "has_synced": true,
+      "path": "select/12_アップサイド・ダウン_ダイアナ・ロス.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ゴーン・ゴードン・ダウン",
+      "artist": "Nilfruits",
+      "has_synced": true,
+      "path": "select/13_ゴーン・ゴードン・ダウン_Nilfruits.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ゴーン・ゴードン・ダウン",
+      "artist": "NILFRUITS (煮ル果実)",
+      "has_synced": true,
+      "path": "select/14_ゴーン・ゴードン・ダウン_NILFRUITS_(煮ル果実).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ダウン?タウン?ブギウギ?バンド/港のヨ?コ?ヨコハマ?ヨコスカ",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/15_ダウン_タウン_ブギウギ_バンド_港のヨ_コ_ヨコハマ_ヨコスカ_Various.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Down",
+      "artist": "BLINK-182",
+      "has_synced": false,
+      "path": "select/pl_01_Down_BLINK-182.txt"
+    }
+  ]
+}
