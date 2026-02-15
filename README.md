@@ -1,0 +1,57 @@
+# blink-182 – ダウン
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+The drops of rain they
+fall all over
+this awkward silence
+makes me crazy
+the glow inside burns
+light upon her
+I'll try to kiss you
+if you let me
+(this can't be the end)
+Tidal waves they rip
+right through me
+tears from eyes worn
+cold and sad
+pick me up now
+I need you so bad
+Down down down down
+down down down down
+down down down down
+down down down down
+(it gets me so)
+down down down down
+down down down down
+down down down down
+down down down down
+(it gets me so)
+
+Your vows of silence
+fall all over
+the look in your eyes
+makes me crazy
+I feel the darkness
+break upon her
+I'll take you over
+if you let me
+(you did this)
+Tidal waves they rip
+right through me
+tears from eyes worn
+cold and sad
+pick me up now
+I need you so bad
+Down down down down
+down down down down
+down down down down
+down down down down
+(it gets me so)
+down down down down
+down down down down
+down down down down
+down down down down
+(it gets me so)
+```
